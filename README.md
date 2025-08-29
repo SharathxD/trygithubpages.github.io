@@ -1,4 +1,4 @@
-# A Heartfelt Thanks to Shashank N 🌟
+# A Heartfelt Thanks to Shashank N 🌟 <img src="shashank.png" alt="Shashank N" width="40" style="vertical-align:middle; border-radius:50%;" />
 
 This entire GitHub page is dedicated to **Shashank N**, who has been an incredible source of motivation and inspiration.  
 
