@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
   <!-- Image on the left -->
-  <img src="shashank.jpeg" alt="Shashank N" width="200" height="200" style="border-radius: 50%; border: 2px solid #FFD700;"/>
+  <img src="shashankn.jpeg" alt="Shashank N" width="200" height="200" style="border-radius: 50%; border: 2px solid #FFD700;"/>
 
   <!-- Text on the right -->
   <div>
