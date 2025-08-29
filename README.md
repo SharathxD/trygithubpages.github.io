@@ -7,7 +7,7 @@
   <div>
     <h1>A Heartfelt Thanks to Shashank N 🌟</h1>
 
-  <p>
+   <p>
       This entire GitHub page is dedicated to <strong>Shashank N</strong>, who has been an incredible source of motivation and inspiration.
     </p>
 
