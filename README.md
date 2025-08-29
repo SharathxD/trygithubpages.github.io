@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <h1 style="margin-right: 15px;">A Heartfelt Thanks to Shashank N 🌟</h1>
-  <img src="path_to_image.jpg" alt="shashank.png" width="60" height="60" style="border-radius: 50%; border: 2px solid #FFD700;">
+  <img src="shashank.png" alt="shashank_the_god" width="60" height="60" style="border-radius: 50%; border: 2px solid #FFD700;">
 </div>
 This entire GitHub page is dedicated to **Shashank N**, who has been an incredible source of motivation and inspiration.  
 
