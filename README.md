@@ -7,13 +7,13 @@
   <!-- Text on the right -->
   <div>
 
-    <h1>A Heartfelt Thanks to Shashank N 🌟</h1>
+  <h1>A Heartfelt Thanks to Shashank N 🌟</h1>
 
-    <p>
+  <p>
       This entire GitHub page is dedicated to <strong>Shashank N</strong>, who has been an incredible source of motivation and inspiration.
     </p>
 
-    <h2>Why Shashank N is Amazing</h2>
+  <h2>Why Shashank N is Amazing</h2>
     <ul>
       <li>Always encouraging others to learn and grow.</li>
       <li>A guiding light in moments of doubt.</li>
@@ -21,7 +21,7 @@
       <li>Inspires curiosity, creativity, and the courage to start new projects.</li>
     </ul>
 
-    <h2>Shashank N’s Impact</h2>
+<h2>Shashank N’s Impact</h2>
     <ul>
       <li>I discovered the courage to learn new things.</li>
       <li>I took the leap to create this GitHub page.</li>
@@ -29,7 +29,7 @@
       <li>I am reminded that encouragement and belief can truly change someone's journey.</li>
     </ul>
 
-    <h2>A Simple Message</h2>
+  <h2>A Simple Message</h2>
     <p>
       Thank you, <strong>Shashank N</strong>, for being the incredible person you are.<br/>
       Your support has made a real difference, and this page exists solely because of your inspiration.<br/>
